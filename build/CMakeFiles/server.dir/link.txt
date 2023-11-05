@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/server.dir/src/pool/TaskQueue.cpp.o CMakeFiles/server.dir/src/pool/ThreadPool.cpp.o CMakeFiles/server.dir/src/server.cpp.o CMakeFiles/server.dir/src/socket/socket.cpp.o -o ../bin/server 
